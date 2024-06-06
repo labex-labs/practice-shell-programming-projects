@@ -1,16 +1,13 @@
-
----
+# Practice Shell Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
 </div>
 
-## Shell
-
 Shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation.
 
-|   Index | Name                                         | Level   | Project Link                                                                                        |
-|---------|----------------------------------------------|---------|-----------------------------------------------------------------------------------------------------|
+|   Index | Name                                         | Level   | Project Link                                                                                         |
+|---------|----------------------------------------------|---------|------------------------------------------------------------------------------------------------------|
 |      01 | Build a Linux System Monitor Using Bash      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)        |
 |      02 | Creating a Typing Game Using Bash            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-typing-game-using-bash)              |
 |      03 | Build a Task Scheduler Using Bash            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-task-scheduler-using-bash)              |
@@ -32,8 +29,9 @@ Shell is a user interface for access to an operating system's services. In gener
 |      19 | Searching for Specific Files                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-searching-for-specific-files)                   |
 |      20 | Samba File Sharing on Linux                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-service-management)                             |
 
-### More
+## More
 
-- 🔗 [Shell Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#shell)
 - 🔗 [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
