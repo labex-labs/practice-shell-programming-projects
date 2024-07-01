@@ -6,8 +6,8 @@
 
 Shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation.
 
-|   Index | Name                                         | Level   | Project Link                                                                                         |
-|---------|----------------------------------------------|---------|------------------------------------------------------------------------------------------------------|
+|   Index | Name                                         | Level   | Project Link                                                                                        |
+|---------|----------------------------------------------|---------|-----------------------------------------------------------------------------------------------------|
 |      01 | Build a Linux System Monitor Using Bash      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)        |
 |      02 | Creating a Typing Game Using Bash            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-typing-game-using-bash)              |
 |      03 | Build a Task Scheduler Using Bash            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-task-scheduler-using-bash)              |
