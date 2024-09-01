@@ -27,7 +27,7 @@ Shell is a user interface for access to an operating system's services. In gener
 |      17 | [Network Data Packet Statistics](https://labex.io/courses/project-network-data-packet-statistics)                               | ★☆☆     | [🚀 Start](https://labex.io/courses/project-network-data-packet-statistics)                 |
 |      18 | [Random Password Generator Development](https://labex.io/courses/project-password-generator)                                    | ★☆☆     | [🚀 Start](https://labex.io/courses/project-password-generator)                             |
 |      19 | [Searching for Specific Files](https://labex.io/courses/project-searching-for-specific-files)                                   | ★☆☆     | [🚀 Start](https://labex.io/courses/project-searching-for-specific-files)                   |
-|      20 | [Samba File Sharing on Linux](https://labex.io/courses/project-service-management)                                              | ★☆☆     | [🚀 Start](https://labex.io/courses/project-service-management)                             |
+|      20 | [Samba File Sharing on Linux](https://labex.io/courses/project-samba-file-sharing-on-linux)                                     | ★☆☆     | [🚀 Start](https://labex.io/courses/project-samba-file-sharing-on-linux)                    |
 
 ## More Projects
 
