@@ -4,14 +4,14 @@
 <img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
 </div>
 
-Shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation.
+Shell scripting is essential for system administration and automation. This Skill Tree provides a systematic approach to mastering command-line interfaces and shell programming. Designed for beginners, it offers a clear roadmap to understand Unix/Linux shells and scripting languages. Hands-on, non-video courses and practical exercises in an interactive command-line playground ensure you develop real-world shell scripting skills.
 
 |   Index | Name                                                                                                                            | Level   | Project Link                                                                               |
 |---------|---------------------------------------------------------------------------------------------------------------------------------|---------|--------------------------------------------------------------------------------------------|
 |      01 | [Build a Linux System Monitor Using Bash](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)             | ★☆☆     | [🚀 Start](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)        |
-|      02 | [Creating a Typing Game Using Bash](https://labex.io/courses/project-creating-a-typing-game-using-bash)                         | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-typing-game-using-bash)              |
-|      03 | [Build a Task Scheduler Using Bash](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                         | ★☆☆     | [🚀 Start](https://labex.io/courses/project-build-a-task-scheduler-using-bash)              |
-|      04 | [Building Flappy Bird Using C](https://labex.io/courses/project-building-flappy-bird-using-c)                                   | ★☆☆     | [🚀 Start](https://labex.io/courses/project-building-flappy-bird-using-c)                   |
+|      02 | [Build a Task Scheduler Using Bash](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                         | ★☆☆     | [🚀 Start](https://labex.io/courses/project-build-a-task-scheduler-using-bash)              |
+|      03 | [Building Flappy Bird Using C](https://labex.io/courses/project-building-flappy-bird-using-c)                                   | ★☆☆     | [🚀 Start](https://labex.io/courses/project-building-flappy-bird-using-c)                   |
+|      04 | [Creating a Typing Game Using Bash](https://labex.io/courses/project-creating-a-typing-game-using-bash)                         | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-typing-game-using-bash)              |
 |      05 | [Chess Board in Terminal](https://labex.io/courses/project-chess-board-in-terminal)                                             | ★★☆     | [🚀 Start](https://labex.io/courses/project-chess-board-in-terminal)                        |
 |      06 | [Implement Custom Trash-Enabled Command](https://labex.io/courses/project-avoid-accidental-deletion)                            | ★☆☆     | [🚀 Start](https://labex.io/courses/project-avoid-accidental-deletion)                      |
 |      07 | [Users and Groups Creation and Deletion Batch](https://labex.io/courses/project-bulk-creation-and-deletion-of-users-and-groups) | ★☆☆     | [🚀 Start](https://labex.io/courses/project-bulk-creation-and-deletion-of-users-and-groups) |
@@ -32,15 +32,15 @@ Shell is a user interface for access to an operating system's services. In gener
 ## More Projects
 
 - [Linux Programming Projects](https://github.com/labex-labs/practice-linux-programming-projects)
-- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [DevOps Programming Projects](https://github.com/labex-labs/practice-devops-programming-projects)
-- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
-- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
-- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
-- [Cyber Security Programming Projects](https://github.com/labex-labs/practice-cysec-programming-projects)
-- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
+- [Cybersecurity Programming Projects](https://github.com/labex-labs/practice-cybersecurity-programming-projects)
+- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [Docker Programming Projects](https://github.com/labex-labs/practice-docker-programming-projects)
+- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
 - [Kubernetes Programming Projects](https://github.com/labex-labs/practice-kubernetes-programming-projects)
+- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
+- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
+- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
 - [Git Programming Projects](https://github.com/labex-labs/practice-git-programming-projects)
 - [Ansible Programming Projects](https://github.com/labex-labs/practice-ansible-programming-projects)
 - [Jenkins Programming Projects](https://github.com/labex-labs/practice-jenkins-programming-projects)
@@ -50,10 +50,7 @@ Shell is a user interface for access to an operating system's services. In gener
 - [C++ Programming Projects](https://github.com/labex-labs/practice-cpp-programming-projects)
 - [C Programming Projects](https://github.com/labex-labs/practice-c-programming-projects)
 - [MySQL Programming Projects](https://github.com/labex-labs/practice-mysql-programming-projects)
-- [Go Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
-- [Rust Programming Projects](https://github.com/labex-labs/practice-rust-programming-projects)
-- [OpenCV Programming Projects](https://github.com/labex-labs/practice-opencv-programming-projects)
-- [Django Programming Projects](https://github.com/labex-labs/practice-django-programming-projects)
+- [Golang Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
 - [Pandas Programming Projects](https://github.com/labex-labs/practice-pandas-programming-projects)
 - [NumPy Programming Projects](https://github.com/labex-labs/practice-numpy-programming-projects)
 - [scikit-learn Programming Projects](https://github.com/labex-labs/practice-sklearn-programming-projects)
@@ -63,7 +60,6 @@ Shell is a user interface for access to an operating system's services. In gener
 - [CSS Programming Projects](https://github.com/labex-labs/practice-css-programming-projects)
 - [JavaScript Programming Projects](https://github.com/labex-labs/practice-javascript-programming-projects)
 - [React Programming Projects](https://github.com/labex-labs/practice-react-programming-projects)
-- [jQuery Programming Projects](https://github.com/labex-labs/practice-jquery-programming-projects)
 
 
 ## Other Lists
