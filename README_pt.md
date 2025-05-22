@@ -1,0 +1,44 @@
+# Praticar Projetos de Programação Shell
+
+## Idiomas
+
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
+</div>
+
+Shell scripting é crucial para administração de sistemas e automação. Esta Skill Tree oferece uma maneira sistemática de dominar interfaces de linha de comando e programação shell. Feito sob medida para iniciantes, oferece um caminho claro para entender shells Unix/Linux e linguagens de script. Cursos práticos, sem vídeo, e exercícios práticos em um ambiente interativo de linha de comando ajudam você a desenvolver habilidades de shell scripting do mundo real.
+
+## Exercícios
+
+|   Índice | Nome                                                                                                                                  | Dificuldade   | Prática                                                                                              |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------|
+|       01 | [Construa um Monitor de Sistema Linux Usando Bash](https://labex.io/pt/courses/project-build-a-linux-system-monitor-using-bash)       | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-build-a-linux-system-monitor-using-bash)        |
+|       02 | [Construir um Agendador de Tarefas Usando Bash](https://labex.io/pt/courses/project-build-a-task-scheduler-using-bash)                | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-build-a-task-scheduler-using-bash)              |
+|       03 | [Construindo Flappy Bird Usando C](https://labex.io/pt/courses/project-building-flappy-bird-using-c)                                  | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-building-flappy-bird-using-c)                   |
+|       04 | [Criando um Jogo de Digitação Usando Bash](https://labex.io/pt/courses/project-creating-a-typing-game-using-bash)                     | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-creating-a-typing-game-using-bash)              |
+|       05 | [Tabuleiro de Xadrez no Terminal](https://labex.io/pt/courses/project-chess-board-in-terminal)                                        | ★★☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-chess-board-in-terminal)                        |
+|       06 | [Implementar Comando Personalizado com Lixeira](https://labex.io/pt/courses/project-avoid-accidental-deletion)                        | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-avoid-accidental-deletion)                      |
+|       07 | [Criação e Exclusão em Lote de Usuários e Grupos](https://labex.io/pt/courses/project-bulk-creation-and-deletion-of-users-and-groups) | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-bulk-creation-and-deletion-of-users-and-groups) |
+|       08 | [Coletar Arquivos de um Período Específico](https://labex.io/pt/courses/project-collect-files-from-specified-time)                    | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-collect-files-from-specified-time)              |
+|       09 | [Copiar Arquivos Grandes com Estrutura Preservada](https://labex.io/pt/courses/project-copy-specified-files)                          | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-copy-specified-files)                           |
+|       10 | [Personalizando a Listagem de Arquivos Linux](https://labex.io/pt/courses/project-directory-size)                                     | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-directory-size)                                 |
+|       11 | [Extração de Informações de Texto](https://labex.io/pt/courses/project-extracting-information-from-text)                              | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-extracting-information-from-text)               |
+|       12 | [Extração de Informações de Links de Texto](https://labex.io/pt/courses/project-extracting-link-information-from-text)                | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-extracting-link-information-from-text)          |
+|       13 | [Obter Programa que Satisfaz a Condição](https://labex.io/pt/courses/project-get-program-that-satisfies-the-condition)                | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-get-program-that-satisfies-the-condition)       |
+|       14 | [Recuperação de Informações do Servidor Linux](https://labex.io/pt/courses/project-get-system-information)                            | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-get-system-information)                         |
+|       15 | [Análise e Otimização de Logs do Nginx](https://labex.io/pt/courses/project-log-analysis)                                             | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-log-analysis)                                   |
+|       16 | [Backup Automático Diário dos Logs do Sistema](https://labex.io/pt/courses/project-log-backup)                                        | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-log-backup)                                     |
+|       17 | [Estatísticas de Pacotes de Dados de Rede](https://labex.io/pt/courses/project-network-data-packet-statistics)                        | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-network-data-packet-statistics)                 |
+|       18 | [Desenvolvimento de Gerador de Senhas Aleatórias](https://labex.io/pt/courses/project-password-generator)                             | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-password-generator)                             |
+|       19 | [Procurando por Arquivos Específicos](https://labex.io/pt/courses/project-searching-for-specific-files)                               | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-searching-for-specific-files)                   |
+|       20 | [Samba File Sharing on Linux](https://labex.io/pt/courses/project-samba-file-sharing-on-linux)                                        | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-samba-file-sharing-on-linux)                    |
+|       21 | [Desafios Práticos de Shell](https://labex.io/pt/courses/shell-practice-challenges)                                                   | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/shell-practice-challenges)                              |
+
+## Mais
+
+- 🔗 [Shell Saiba mais sobre](https://labex.io/pt/skilltrees/shell)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+
