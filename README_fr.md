@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
 </div>
 
-La programmation shell est essentielle pour l'administration système et l'automatisation. Cet arbre de compétences propose une méthode systématique pour maîtriser les interfaces en ligne de commande et la programmation shell. Conçu pour les débutants, il offre un chemin clair pour comprendre les shells Unix/Linux et les langages de script. Des cours pratiques, sans vidéo, et des exercices pratiques dans un environnement interactif en ligne de commande vous aident à développer des compétences réelles en scripting shell.
+Apprenez le scripting Shell pour l'administration système et l'automatisation grâce à ce parcours d'apprentissage complet. Conçue pour les débutants, cette feuille de route offre un moyen systématique de maîtriser les interfaces en ligne de commande et la programmation Shell. Les cours Shell inclus proposent des instructions pratiques sans vidéo et des exercices concrets dans un environnement de ligne de commande interactif, vous aidant à développer des compétences réelles en Shell Unix/Linux et en langages de script.
 
 ## Exercices
 
@@ -33,8 +33,7 @@ La programmation shell est essentielle pour l'administration système et l'autom
 |      17 | [Statistiques des paquets de données réseau](https://labex.io/fr/courses/project-network-data-packet-statistics)                                     | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-network-data-packet-statistics)                 |
 |      18 | [Développement d'un générateur de mots de passe aléatoires](https://labex.io/fr/courses/project-password-generator)                                  | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-password-generator)                             |
 |      19 | [Recherche de fichiers spécifiques](https://labex.io/fr/courses/project-searching-for-specific-files)                                                | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-searching-for-specific-files)                   |
-|      20 | [Samba File Sharing on Linux](https://labex.io/fr/courses/project-samba-file-sharing-on-linux)                                                       | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-samba-file-sharing-on-linux)                    |
-|      21 | [Défis pratiques en Shell](https://labex.io/fr/courses/shell-practice-challenges)                                                                    | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/shell-practice-challenges)                              |
+|      20 | [Défis pratiques en Shell](https://labex.io/fr/courses/shell-practice-challenges)                                                                    | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/shell-practice-challenges)                              |
 
 ## Plus
 
