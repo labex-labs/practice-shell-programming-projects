@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
 </div>
 
-Shell 脚本编程对于系统管理和自动化至关重要。此技能树提供了一种系统的方法来掌握命令行界面和 Shell 编程。它专为初学者设计，为理解 Unix/Linux Shell 和脚本语言提供了清晰的学习路径。通过交互式命令行环境中的实践课程和实际操作练习，帮助你培养实用的 Shell 脚本编程技能。
+通过这个全面的学习路径，掌握用于系统管理和自动化的 Shell 脚本。本路线图专为初学者设计，提供了一种系统化的方法来精通命令行界面和 Shell 编程。随附的 Shell 课程提供动手实践、非视频教学以及交互式命令行环境中的实际练习，帮助您在 Unix/Linux Shell 和脚本语言方面培养真实世界的技能。
 
 ## 练习
 
@@ -33,8 +33,7 @@ Shell 脚本编程对于系统管理和自动化至关重要。此技能树提�
 |     17 | [网络数据包统计](https://labex.io/zh/courses/project-network-data-packet-statistics)                             | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-network-data-packet-statistics)                 |
 |     18 | [随机密码生成器开发](https://labex.io/zh/courses/project-password-generator)                                     | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-password-generator)                             |
 |     19 | [搜索特定文件](https://labex.io/zh/courses/project-searching-for-specific-files)                                 | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-searching-for-specific-files)                   |
-|     20 | [Samba File Sharing on Linux](https://labex.io/zh/courses/project-samba-file-sharing-on-linux)                   | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-samba-file-sharing-on-linux)                    |
-|     21 | [Shell 实践挑战](https://labex.io/zh/courses/shell-practice-challenges)                                          | 初级   | [🚀 开始实验](https://labex.io/zh/courses/shell-practice-challenges)                              |
+|     20 | [Shell 实践挑战](https://labex.io/zh/courses/shell-practice-challenges)                                          | 初级   | [🚀 开始实验](https://labex.io/zh/courses/shell-practice-challenges)                              |
 
 ## 更多
 
