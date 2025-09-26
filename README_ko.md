@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
 </div>
 
-쉘 스크립팅은 시스템 관리 및 자동화에 필수적입니다. 이 스킬 트리는 명령줄 인터페이스와 쉘 프로그래밍을 마스터할 수 있는 체계적인 방법을 제공합니다. 초보자를 위해 설계되었으며, Unix/Linux 쉘 및 스크립팅 언어를 이해하는 명확한 경로를 제공합니다. 대화형 명령줄 환경에서 실습 중심의 비디오가 아닌 코스와 실용적인 연습을 통해 실제 쉘 스크립팅 기술을 개발할 수 있습니다.
+이 종합 학습 경로를 통해 시스템 관리 및 자동화를 위한 셸 스크립팅을 배우세요. 초보자를 위해 설계된 이 로드맵은 명령줄 인터페이스와 셸 프로그래밍을 마스터하는 체계적인 방법을 제공합니다. 포함된 셸 강좌는 대화형 명령줄 환경에서 실습 위주의 비디오 없는 지침과 실제 연습을 제공하여 Unix/Linux 셸 및 스크립팅 언어에 대한 실제 기술을 개발하는 데 도움을 줍니다.
 
 ## 연습
 
@@ -33,8 +33,7 @@
 |       17 | [네트워크 데이터 패킷 통계](https://labex.io/ko/courses/project-network-data-packet-statistics)                             | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-network-data-packet-statistics)                 |
 |       18 | [무작위 비밀번호 생성기 개발](https://labex.io/ko/courses/project-password-generator)                                       | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-password-generator)                             |
 |       19 | [특정 파일 검색](https://labex.io/ko/courses/project-searching-for-specific-files)                                          | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-searching-for-specific-files)                   |
-|       20 | [Samba File Sharing on Linux](https://labex.io/ko/courses/project-samba-file-sharing-on-linux)                              | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-samba-file-sharing-on-linux)                    |
-|       21 | [Shell 실습 챌린지](https://labex.io/ko/courses/shell-practice-challenges)                                                  | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/shell-practice-challenges)                              |
+|       20 | [Shell 실습 챌린지](https://labex.io/ko/courses/shell-practice-challenges)                                                  | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/shell-practice-challenges)                              |
 
 ## 더 보기
 
