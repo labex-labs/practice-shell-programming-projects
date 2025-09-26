@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
 </div>
 
-Shell-Scripting ist entscheidend für Systemadministration und Automatisierung. Dieser Skill Tree bietet einen systematischen Ansatz, um die Kommandozeilenoberflächen und Shell-Programmierung zu meistern. Er richtet sich an Anfänger und bietet einen klaren Weg, um Unix/Linux-Shells und Skriptsprachen zu verstehen. Praktische, nicht-videobasierte Kurse und Übungen in einer interaktiven Kommandozeilenumgebung helfen Ihnen, reale Shell-Scripting-Fähigkeiten zu entwickeln.
+Lernen Sie Shell-Scripting für Systemadministration und Automatisierung mit diesem umfassenden Lernpfad. Dieser für Anfänger konzipierte Fahrplan bietet einen systematischen Weg zur Beherrschung von Kommandozeilen-Schnittstellen und Shell-Programmierung. Die enthaltenen Shell-Kurse bieten praktische, nicht-video-basierte Anleitungen und Übungen in einer interaktiven Kommandozeilenumgebung, die Ihnen helfen, reale Fähigkeiten in Unix-/Linux-Shells und Skriptsprachen zu entwickeln.
 
 ## Übungen
 
@@ -33,8 +33,7 @@ Shell-Scripting ist entscheidend für Systemadministration und Automatisierung. 
 |      17 | [Netzwerk-Datenpaketstatistiken](https://labex.io/de/courses/project-network-data-packet-statistics)                                                               | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-network-data-packet-statistics)                 |
 |      18 | [Entwicklung eines Zufallspasswort-Generators](https://labex.io/de/courses/project-password-generator)                                                             | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-password-generator)                             |
 |      19 | [Suchen nach bestimmten Dateien](https://labex.io/de/courses/project-searching-for-specific-files)                                                                 | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-searching-for-specific-files)                   |
-|      20 | [Samba File Sharing on Linux](https://labex.io/de/courses/project-samba-file-sharing-on-linux)                                                                     | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-samba-file-sharing-on-linux)                    |
-|      21 | [Shell Übungsaufgaben](https://labex.io/de/courses/shell-practice-challenges)                                                                                      | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/shell-practice-challenges)                              |
+|      20 | [Shell Übungsaufgaben](https://labex.io/de/courses/shell-practice-challenges)                                                                                      | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/shell-practice-challenges)                              |
 
 ## Mehr
 
