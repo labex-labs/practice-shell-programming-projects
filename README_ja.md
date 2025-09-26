@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
 </div>
 
-シェルスクリプトは、システム管理と自動化において重要です。このスキルツリーは、コマンドラインインターフェースとシェルプログラミングを習得するための体系的な方法を提供します。初心者向けに設計されており、Unix/Linux シェルとスクリプト言語を理解するための明確な道筋を示します。実践的な演習とインタラクティブなコマンドライン環境での実践を通じて、実際のシェルスクリプトスキルを身につけることができます。
+この包括的な学習パスで、システム管理と自動化のためのシェルスクリプトを習得しましょう。初心者向けに設計されたこのロードマップは、コマンドラインインターフェースとシェルプログラミングを体系的にマスターする方法を提供します。含まれるシェルコースでは、インタラクティブなコマンドライン環境内で実践的で非動画形式の指導と演習が提供され、Unix/Linux シェルとスクリプト言語における実用的なスキルを習得するのに役立ちます。
 
 ## 演習
 
@@ -33,8 +33,7 @@
 |             17 | [ネットワークデータパケット統計](https://labex.io/ja/courses/project-network-data-packet-statistics)                            | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-network-data-packet-statistics)                 |
 |             18 | [ランダムパスワード生成器の開発](https://labex.io/ja/courses/project-password-generator)                                        | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-password-generator)                             |
 |             19 | [特定のファイルを検索する](https://labex.io/ja/courses/project-searching-for-specific-files)                                    | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-searching-for-specific-files)                   |
-|             20 | [Samba File Sharing on Linux](https://labex.io/ja/courses/project-samba-file-sharing-on-linux)                                  | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-samba-file-sharing-on-linux)                    |
-|             21 | [シェル実践チャレンジ](https://labex.io/ja/courses/shell-practice-challenges)                                                   | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/shell-practice-challenges)                              |
+|             20 | [シェル実践チャレンジ](https://labex.io/ja/courses/shell-practice-challenges)                                                   | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/shell-practice-challenges)                              |
 
 ## その他
 
